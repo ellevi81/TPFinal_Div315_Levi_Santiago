@@ -1,0 +1,22 @@
+{
+    "game_settings": {
+        "initial_time_seconds": 100,
+        "cards_per_deck": 15,
+        "heal_uses": 1,
+        "shield_uses": 1,
+        "points_per_win": 150,
+        "bonus_points_time_factor": 10
+    },
+    "deck_composition": {
+        "blue_deck_expansion_1": 2,
+        "blue_deck_expansion_2": 2,
+        "blue_deck_expansion_3": 1,
+        "green_deck_expansion_1": 2,
+        "green_deck_expansion_2": 2,
+        "green_deck_expansion_3": 1,
+        "red_deck_expansion_1": 1,
+        "red_deck_expansion_2": 1,
+        "purple_deck_expansion_1": 2,
+        "purple_deck_expansion_2": 1
+    }
+}
