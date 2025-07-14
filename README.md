@@ -25,7 +25,7 @@ In this video, I show my project made with Python and Pygame, where I explain ho
 1.  **Clona el repositorio:**
     ```bash
     git clone https://github.com/ellevi81/TPFinal_Div315_Levi_Santiago.git
-    
+
     cd TPFinal_Div315_Levi_Santiago
     ```
 
@@ -36,5 +36,5 @@ In this video, I show my project made with Python and Pygame, where I explain ho
 
 3.  **Ejecuta el juego:**
     ```bash
-    python main.py
+    python src/main.py
     ```
