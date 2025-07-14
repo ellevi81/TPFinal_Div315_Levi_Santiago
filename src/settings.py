@@ -1,7 +1,7 @@
-# src/settings.py (revisado y comentado)
+# src/settings.py
 # este archivo centraliza todas las constantes y configuraciones del juego.
 # es una buena practica para mantener el codigo ordenado y facil de modificar.
-# si queremos cambiar el ancho de la pantalla, solo lo hacemos aqui.
+# si queremos cambiar el ancho de la pantalla, solo lo hacemos aca.
 
 import os
 

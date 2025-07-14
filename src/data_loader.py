@@ -1,4 +1,4 @@
-# src/data_loader.py (revisado y comentado)
+# src/data_loader.py
 import os
 import json
 import pygame
@@ -62,8 +62,8 @@ def load_all_cards(deck_names):
 
 def load_json_file(file_path):
     """
-    funcion generica para cargar un archivo json.
-    devuelve el contenido del json como un diccionario o lista de python.
+    funcion para cargar un archivo json.
+    devuelve el contenido del json como un diccionario o lista
     """
     if not os.path.exists(file_path):
         return None # si el archivo no existe, no podemos cargarlo

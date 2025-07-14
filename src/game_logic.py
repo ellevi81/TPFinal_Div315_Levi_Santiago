@@ -1,5 +1,5 @@
-# src/game_logic.py (revisado y comentado)
-import random
+# src/game_logic.py
+import random #genera numero aleatorios y realiza selecciones aleatorias
 import settings
 
 def create_player_deck(all_cards_data, composition, total_cards):

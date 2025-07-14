@@ -246,7 +246,7 @@ def handle_events(game_state, assets):
                 # evento para borrar letras
                 elif event.key == pygame.K_BACKSPACE:
                     game_state['player_name'] = game_state['player_name'][:-1]
-                # evento para anadir letras y numeros
+                # evento para añadir letras y numeros
                 elif len(game_state['player_name']) < 15 and event.unicode.isalnum():
                     game_state['player_name'] += event.unicode
 

@@ -1,4 +1,4 @@
-# src/ui_functions.py (revisado y comentado)
+# src/ui_functions.py
 import pygame
 import settings
 
@@ -43,10 +43,8 @@ def is_button_clicked(button_dict, event):
     devuelve true si el evento es un click del mouse y la posicion del mouse
     esta dentro del rectangulo del boton.
     """
-    # no se permite el uso de operadores ternarios en la cursada.
-    # usamos un if/else completo para mayor claridad.
     if event.type == pygame.MOUSEBUTTONDOWN:
-        if button_dict["rect"].collidepoint(event.pos): # collidepoint es clave para esto [cite: 1072]
+        if button_dict["rect"].collidepoint(event.pos): 
             return True
 
     return False
