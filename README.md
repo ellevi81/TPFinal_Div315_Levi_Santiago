@@ -16,10 +16,7 @@ A strategic card battle game based on the Dragon Ball Z universe, developed usin
 <p align="center"><i>Click the image to watch the video.</i></p>
 
 
-
-
-
-In this video, I walk you through my project built with Python and Pygame. We'll dive into the battle mechanics, the Dragon Ball system, and how the ranking system is designed within the game.
+In this video, I show my project made with Python and Pygame, where I explain how the game works — from the battle mechanics to the Shenron wish system and the ranking feature.
 
 ---
 
